@@ -1,0 +1,339 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Montserrat:wght@100;400&family=Poppins:wght@500&family=Volkhov&display=swap');
+
+ul {
+    list-style: none;
+}
+
+.clear {
+    clear: left;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-image: url('../img/homepage.png');
+    background-size: cover;
+    height: 800px;
+}
+
+.container {
+    max-width: 1170px;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}  
+
+.navbar {
+    height: fit-content;
+}
+
+.nav-logo {
+    background-color: goldenrod;
+    font-size: 20px;
+    font-family: 'Volkhov', serif;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 0px 0px 25px 25px;
+    letter-spacing: 5px;
+    font-weight: 500;
+    float: left;
+}
+
+.nav-item {
+    float: right;
+    margin-right: -25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: white;
+    padding: 5px 5px;
+}
+
+.nav-item a:hover {
+    border-bottom: 3px solid white;
+}
+
+.nav-item li {
+    float: left;
+    margin: 15px 25px;
+}
+
+.top-wrapper {
+    margin: 100px 0px;
+    color: white;
+}
+
+.top-wrapper h3 {
+    font-size: 40px;
+    font-family: 'Montserrat', serif;
+    font-weight: 100;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding: 0px;
+}
+
+.top-wrapper h1 {
+    font-size: 100px;
+    margin-top: 0px;
+    letter-spacing: 8px;
+    font-family: 'Volkhov', serif;
+    margin-bottom: 20px;
+    padding: 0px;
+}
+
+.top-wrapper h4 {
+    font-size: 25px;
+    letter-spacing: 10px;
+    font-family: 'Volkhov', serif;
+    font-weight: 100;
+    margin-top: 0px;
+    margin-bottom: 25px;
+}
+
+.top-wrapper p {
+    font-family: 'Poppins', sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+.btn-book {
+    margin-top: 180px;
+    text-align: center;
+}
+
+.btn-book .btn {
+    padding: 10px 35px;
+    font : bold 20px 'Poppins', sans-serif;
+    letter-spacing: 2px;
+}
+
+.main-content .btn {
+    padding: 10px 35px;
+    font : bold 15px 'Poppins', sans-serif;
+}
+
+.btn {
+    color: white;
+    background-color: goldenrod;
+    border-radius: 5px;
+    border: 0.5px solid white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn:hover {
+    color: goldenrod;
+    background-color: white;
+    border: 1px solid goldenrod;
+}
+
+.room-head {
+    text-align: center;
+    padding: 80px 0px 10px 0px;
+}
+
+.room-head h1 {
+    font: 400 60px 'Poppins', sans-serif;
+    margin: 30px;
+}
+
+.room-head p {
+    margin: 30px;
+    font: normal 15px 'Poppins', sans-serif;
+    letter-spacing: 1px;
+}
+
+.main-content {
+    float: left;
+    width: 500px;
+    padding-bottom: 40px;
+    height: 250px;
+    margin: 20px;
+}
+
+.main-content h1 {
+    font-size: 40px;
+    letter-spacing: 3px;
+    margin: 0px;
+}
+
+.main-content p {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: -0.5px;
+    padding-bottom: 20px;
+}
+
+.line1 {
+    float: left;
+    padding-right: 15px;
+    height: 250px;
+}
+
+.line2 {
+    float: left;
+    padding-right: 15px;
+    height: 300px;
+}
+
+.content-img {
+    float: right;
+    width: 500px;
+    margin: 2px;
+}
+
+#rooms {
+    height: 1000px;
+}
+
+.rooms {
+    height: 300px;
+}
+
+.testimoni {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.testimoni h1 {
+    font: normal 50px 'Volkhov', serif;
+}
+
+.testimoni h3 {
+    font: 600 25px 'Montserrat', serif;
+    padding: 0px 280px;
+}
+
+.btn-testi {
+    text-align: center;
+}
+
+.btn-testi .btn {
+    padding: 10px 17px;
+    font-size: 20px;
+    margin: 5px 10px;
+}
+
+.contact-head {
+    margin-top: 100px;
+    padding-top: 50px;
+}
+
+.contact-head h1{
+    font: bold 40px serif;
+    letter-spacing: 2px;
+}
+
+.contact-head h3 {
+    font: 700 20px 'Montserrat', sans-serif;
+    letter-spacing: -0.5px;
+}
+
+.contact-head p {
+    font: normal 17px arial, serif;
+}
+
+.contact-box {
+    background-color: #e1e1e3;
+    padding: 50px 50px 30px 50px;
+    font-family: arial;
+    height: 500px;
+    margin: 50px 0px;
+    font: normal 15px 'Poppins', serif;
+}
+
+.contact-info {
+    width: 250px;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+}
+
+.contact-info p {
+    padding: 0px;
+    margin: 0px;
+    line-height: 20px;
+}
+
+.map {
+    margin: 5px 0px;
+    width: 130px;
+    height: 30px;
+    padding: 15px 0px;
+}
+
+.map a p {
+    color: darkblue;
+    font: bold 20px 'Times New Roman', Times, serif;
+    text-decoration: none;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+}
+
+.map a i {
+    color: darkblue;
+    float: right;
+    margin: 4px 0px;
+    padding: 0px;
+}
+
+.contact-form {
+    float: right;
+    width: 400px;
+}
+
+.form-input input {
+    width: 100%;
+    padding: 7px 0px;
+    margin: 20px 0px;
+    border-radius: 4px;
+    border: 1px solid lightgray;
+}
+
+textarea {
+    border-radius: 4px;
+    border: 1px solid lightgray;
+    width: 100%;
+    margin: 20px 0px;
+}
+
+.btn-submit {
+    float: right;
+    margin: 25px 0px;
+    padding: 15px 35px;
+    font : bold 15px 'Poppins', sans-serif;
+    letter-spacing: 2px;
+}
+
+footer {
+    background-color: #001c4a;
+    height: 70px;
+    text-align: center;
+    margin: 80px 0px 0px 0px;
+}
+
+.cr-info {
+    margin: auto;
+    padding: 30px;
+    width: 370px;
+}
+
+.cr-info a {
+    color: white;
+    font: normal 10px 'Montserrat', serif;
+    text-decoration: none;
+    word-spacing: 1px;
+}
+
+.made {
+    float: left;
+}
+
+.design {
+    float: right;
+}
