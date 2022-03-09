@@ -7,10 +7,13 @@ Created : July 24th 2021
 ## Preview
 ### Tugas 1
 <img src="preview1.png" width="100%">
+
 ### Tugas 2
 <img src="preview2.png" width="100%">
+
 ### Tugas 3
 <img src="preview3.png" width="100%">
+
 ### Tugas 5
 <img src="preview5.png" width="100%">
 
