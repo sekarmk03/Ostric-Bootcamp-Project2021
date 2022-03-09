@@ -8,14 +8,25 @@ Created : July 24th 2021
 ### Tugas 1
 <img src="preview1.png" width="100%">
 
+View my article : [https://ostric.kemakom.org/Home/view_article/9](https://ostric.kemakom.org/Home/view_article/9)
+
 ### Tugas 2
 <img src="preview2.png" width="100%">
+
+View my article : [https://ostric.kemakom.org/Home/view_article/10](https://ostric.kemakom.org/Home/view_article/10)
 
 ### Tugas 3
 <img src="preview3.png" width="100%">
 
+View my article : [https://ostric.kemakom.org/Home/view_article/11](https://ostric.kemakom.org/Home/view_article/11)
+
 ### Tugas 5
 <img src="preview5.png" width="100%">
+
+View my article : [https://ostric.kemakom.org/Home/view_article/8](https://ostric.kemakom.org/Home/view_article/8)
+
+### Ostric's Website
+[https://ostric.kemakom.org/](https://ostric.kemakom.org/)
 
 ### Tech
 * [PHP](https://www.php.net/) - Hypertext Preprocessor, is the most popular server-side-scripting programming language especially for web development
